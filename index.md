@@ -19,7 +19,7 @@ layout: default
 
 * * *
 
-### Systems Engineer IV for Verisign, Inc. in Reston, VA
+### Systems Engineer IV for Verisign, Inc.
 #### Reston, VA • Febuary 2016 through March 2018
 - Administered .com/.net and root DNS global infrastructure
 - Automation with Puppet and Ansible
@@ -35,7 +35,7 @@ layout: default
 
 * * *
 
-### Infrastructure Engineer III for Comcast XfinityWiFi in Reston, VA
+### Infrastructure Engineer III for Comcast XfinityWiFi
 #### Reston, VA • September 2014 through February 2016
 - Automated host management with Puppet
 - Utilized GIT and SVN extensively for version control
