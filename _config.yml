@@ -20,7 +20,7 @@ logo: /assets/img/logo.png
 description: >- # this means to ignore newlines until "baseurl:"
     Experience from operational boots on the ground to high-level R&D.<br />
     Overall linux, scripting, devops guru.<br />
-    See my blog at: http://linux.icu
+    Read my blog at <a href="http://linux.icu">Existentshell Crisis</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gabe.tech" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: xstaticxgpx
