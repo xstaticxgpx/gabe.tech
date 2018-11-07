@@ -10,11 +10,14 @@ layout: default
 
 ### Systems Architect for NTT Cloud Infrastructure Services
 #### Ashburn, VA • April 2018 through *current*
-- Took ownership over in-house NodeJS (express, angular) and Python applications
-- Nutanix hyper-converged infrastructure provisioning and administration
-- Coordinate with vendors on new hardware quotes/bill-of-materials
-- Virtual Network Function administration
 - Develop automation solutions with Ansible
+- API oriented software development 
+- Nutanix hyper-converged infrastructure provisioning and administration
+- Took ownership over in-house NodeJS (express, angular) and Python applications
+- Coordinate with vendors on new hardware quotes/bill-of-materials
+- Implement lab based proof-of-concepts
+- Software defined networking (Cisco ACI)
+- Virtual Network Function administration
 - Open source evangelist
 
 * * *
