@@ -98,5 +98,5 @@ layout: default
 #### Georgetown, D.C. • Full time during the Summer of 2010
 #### Part time during second half of High School Senior year (Jan-May 2011)
 - Assisted with the migration from XP to Windows 7 for the companies relatively large user base (several hundred people). This entailed receiving large shipments of computers, asset tagging, stress testing, and re-shipping the machines to remote employees if applicable.
-- Assigned and completed the monsterous task of re-documenting all Ethernet port labela in every office of the 6 story building.
+- Assigned and completed the monsterous task of re-documenting all Ethernet port labels in every office of the 6 story building.
 - Developed a digital replacement for their weekly systems checklist. I created a simple PHP website which utilized a SQLite backend plus some JavaScript on the front end where the engineers could login and complete the checklist, at which point it would be archived into the database for future review if necessary.
