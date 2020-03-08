@@ -4,12 +4,28 @@ layout: default
 
 # Resume
 ## Gabriel Pacuilla / gpacuilla@gmail.com
-#### _Senior Linux Engineer with 7+ years of professional experience. Experience working in large enterprise environments and high traffic internet infrastructure positions. Experience with Docker, OpenStack, KVM, VMWare, *BSD, Linux, and Windows environments. Wide breadth of knowledge for both hardware and software, advanced troubleshooting skills.  Distributed application development with Python. Open source development enthusiast with a variety of personal projects._
+#### _Senior Linux Engineer with 8+ years of professional experience. Experience working in large enterprise environments and high traffic internet infrastructure positions. Experience with Docker, OpenStack, KVM, VMWare, *BSD, Linux, and Windows environments. Wide breadth of knowledge for both hardware and software, advanced troubleshooting skills.  Distributed application development with Python. Open source development enthusiast with a variety of personal projects._
+
+* * *
+
+### Site Reliability Engineer for MaxMind, Inc.
+#### Fully Remote • December 2018 through *current*
+- Administered public API services (GeoIP, minFraud)
+- Part of on-call rotation
+- Automation using ansible and terraform
+- Heavy use of git for orchestrating code/infrastructure changes
+- Automatic code testing in TeamCity
+- Developed and refined internal software using Go
+- Transition from baremetal servers to Google Cloud ("lift and shift")
+- Design and implement cloud transition strategy, with a focus on security
+- ELK stack administration and maintenance
+- Extending and improving monitoring with Prometheus / Grafana
+- Provide customer support when escalated
 
 * * *
 
 ### Systems Architect for NTT Cloud Infrastructure Services
-#### Ashburn, VA • April 2018 through *current*
+#### Ashburn, VA • April 2018 through December 2018
 - Develop automation solutions with Ansible
 - API oriented software development 
 - Nutanix hyper-converged infrastructure provisioning and administration
