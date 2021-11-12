@@ -4,12 +4,18 @@ layout: default
 
 # Resume
 ## Gabriel Pacuilla / gpacuilla@gmail.com
-#### _Senior Linux Engineer with 8+ years of professional experience. Experience working in large enterprise environments and high traffic internet infrastructure positions. Experience with Docker, OpenStack, KVM, VMWare, *BSD, Linux, and Windows environments. Wide breadth of knowledge for both hardware and software, advanced troubleshooting skills.  Distributed application development with Python. Open source development enthusiast with a variety of personal projects._
+#### _Senior Systems Engineer with 10+ years of professional experience._
+#### _Experience working in large enterprise environments and high traffic internet infrastructure positions. Experience working in globally distributed fully remote teams. Extensive experience with Baremetal, Cloud, and Container based environments. Expansive knowledge and advanced troubleshooting skills of both hardware and software. High performance distributed application development with Python and Go. Open source development enthusiast with a variety of personal projects._
+
+* * *
+
+### Site Reliability Engineer for Civilized Discourse Construction Kit, Inc.
+#### Fully Remote • November 2021 through *current*
 
 * * *
 
 ### Site Reliability Engineer for MaxMind, Inc.
-#### Fully Remote • December 2018 through *current*
+#### Fully Remote • December 2018 through November 2021
 - Administered public API services (GeoIP, minFraud)
 - Part of on-call rotation
 - Automation using ansible and terraform
