@@ -4,13 +4,21 @@ layout: default
 
 # Resume
 ## Gabriel Pacuilla / gpacuilla@gmail.com
-#### _Senior Systems Engineer with 10+ years of professional experience._
+#### _Senior Systems Engineer with over 10 years of professional experience._
 #### _Experience working in large enterprise environments and high traffic internet infrastructure positions. Experience working in globally distributed fully remote teams. Extensive experience with Baremetal, Cloud, and Container based environments. Expansive knowledge and advanced troubleshooting skills of both hardware and software. High performance distributed application development with Python and Go. Open source development enthusiast with a variety of personal projects._
 
 * * *
 
-### Site Reliability Engineer for Civilized Discourse Construction Kit, Inc.
+### Site Reliability Engineer for Civilized Discourse Construction Kit, Inc. (discourse.org)
 #### Fully Remote • November 2021 through *current*
+- Web application (Ruby on Rails) administration
+- Part of on-call rotation
+- Baremetal hardware administration
+- Internet network administration (BGP, Transit/Peering)
+- AWS Cloud administration (EC2, RDS, Elasticache, Autoscaling, Security Groups)
+- Automation using Puppet & Terraform
+- Prometheus monitoring stack
+- PostgreSQL database administration
 
 * * *
 
