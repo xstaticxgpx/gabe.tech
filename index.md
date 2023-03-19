@@ -12,20 +12,21 @@ layout: default
 ### Site Reliability Engineer for Civilized Discourse Construction Kit, Inc. (discourse.org)
 #### Fully Remote • November 2021 through *current*
 - Web application (Ruby on Rails) administration
-- Part of on-call rotation
+- Container orchestration (Docker / nomad)
 - Baremetal hardware administration
 - Internet network administration (BGP, Transit/Peering)
+- PostgreSQL database administration
 - AWS Cloud administration (EC2, RDS, Elasticache, Autoscaling, Security Groups)
 - Automation using Puppet & Terraform
-- Prometheus monitoring stack
-- PostgreSQL database administration
+- Prometheus monitoring stack (w/ Grafana)
+- Jenkins build automation (code testing, etc)
+- Part of on-call rotation
 
 * * *
 
 ### Site Reliability Engineer for MaxMind, Inc.
 #### Fully Remote • December 2018 through November 2021
 - Administered public API services (GeoIP, minFraud)
-- Part of on-call rotation
 - Automation using ansible and terraform
 - Heavy use of git for orchestrating code/infrastructure changes
 - Automatic code testing in TeamCity
@@ -35,6 +36,7 @@ layout: default
 - ELK stack administration and maintenance
 - Extending and improving monitoring with Prometheus / Grafana
 - Provide customer support when escalated
+- Part of on-call rotation
 
 * * *
 
@@ -65,6 +67,7 @@ layout: default
 - Internet route management via BGP/OSPF
 - Dealing with extremely large scale DDOS attacks. Detecting and profiling malicious traffic, and acting accordingly
 - Managed over 10,000 unique hosts
+- Part of on-call rotation
 
 * * *
 
