@@ -10,7 +10,7 @@ layout: default
 * * *
 
 ### Site Reliability Engineer for Civilized Discourse Construction Kit, Inc. (discourse.org)
-#### Fully Remote • November 2021 through *current*
+#### Fully Remote • November 2021 through March 2023
 - Web application (Ruby on Rails) administration
 - Container orchestration (Docker / nomad)
 - Baremetal hardware administration
