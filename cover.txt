@@ -1,0 +1,21 @@
+Hello,
+
+My name is Gabe - I currently reside in Richmond, VA and have extensive experience (10+ years) working in practically applied sysadmin/engineer/SRE roles.
+I've most recently worked at MaxMind and Discourse which are both fully remote companies - with Discourse also being globally distributed.
+
+I enjoy working with people and troubleshooting problems, while creating and iterating on the stack and learning new skills and tricks-of-the-trade.
+
+Originally a Linux SysAdmin I still get a lot of enjoyment out of operating generalized "systems" neatly and efficiently.
+I'm familiar with operating at a higher-level platform engineering and or at smaller scale web services administration.
+
+I'm familiar operating in secured financially sensitive environments, for example managing the infrastructure for minFraud at MaxMind.
+Understand system hardening procedures and undergoing audits and working directly with auditors for ie. SOC2 certifications.
+
+I'm comfortable creating and maintaining internal tooling around infrastructure and working with all teammates to help them better iterate in their own roles.
+Familiar with various low to high-level languages, ie. from C to Python to go and rust.
+
+I have experience managing all types of infrastructure, from baremetal to GCP and AWS environments managed via terraform as IaaC.
+Familiar with managing and monitoring physical or virtual network devices, ie. firewalls and load balancers.
+
+I think my experience is in line with this posting and I'd be very interested in learning more about this position!
+Thanks for your consideration!
